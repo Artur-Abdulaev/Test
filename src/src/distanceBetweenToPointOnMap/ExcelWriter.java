@@ -38,7 +38,7 @@ public class ExcelWriter {
 
         outputStream.close();
 
-        System.out.println("Вычисление дистанций до ближайших ОПС успешно проведено");
+        System.out.println("Ready");
 
     }
 }
